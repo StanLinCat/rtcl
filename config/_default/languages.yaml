@@ -9,14 +9,30 @@ en:
   #contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+zh-hant:
+ languageCode: zh-hant
+ contentDir: content/zh
+ title: 即時控制實驗室
+ params:
+   description: 分析非線性系統的實驗室
+ menu:
+   main:
+    - name: 導覽
+      url: tour
+      weight: 10
+    - name: 文章
+      url: post
+      weight: 20
+    - name: 成員
+      url: people
+      weight: 30
+    - name: 活動
+      url: event
+      weight: 40
+    - name: 發表
+      url: publication
+      weight: 50
+    - name: 聯絡我們
+      url: contact
+      weight: 60
+
