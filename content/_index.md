@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Real Time
+        Control Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Real Time Control Lab** has been a center of excellence for Nonlinear system control research, teaching, and practice since its founding in 1997.
   
   - block: collection
     content:
